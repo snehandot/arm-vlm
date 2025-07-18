@@ -1,4 +1,4 @@
-# 3D Robot Arm LLM Control
+# 3D ARM - VLM Control
 
 This project allows you to control a 3D robot arm via a web GUI and LLM feedback loop, with real-time visual feedback.
 
